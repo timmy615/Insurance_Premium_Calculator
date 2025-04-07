@@ -28,7 +28,7 @@ premium-calculator/ ├── backend/ # Flask 後端 API │ ├── app.py �
 - Excel
 
 ---
-## 🎯 優化目標（Planned Improvements）
+## 🎯 優化目標
 
 - [ ] ✅ 改進保費計算模型邏輯，納入更多壽險商品（ex: 還本壽險、分紅型保單）
 - [ ] ✅ 加入輸入驗證（防止負數、空值、年齡限制等）
