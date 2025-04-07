@@ -6,8 +6,13 @@
 ---
 
 ## 📁 專案結構
-premium-calculator/ ├── backend/ # Flask 後端 API │ ├── app.py │ ├── calculator.py │ └── mortality_tables.xlsx 
-                    ├── frontend/ # React + Vite 前端 │ 
+premium-calculator/
+├── backend/ # Flask 後端 API
+│ ├── app.py
+│ ├── calculator.py
+│ ├── mortality_tables.xlsx
+│
+├── frontend/ # React + Vite 前端
 
 ---
 
